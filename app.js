@@ -11,7 +11,7 @@ app.use(cors());
 app.get('/', (req, res) => {
     const subject = 
     ({
-        "name":"Name - First name - Last Name ",
+        "name":"Name - Precious Akpan ",
         "CreditCard":"Credit Card - xxxxx-xxxxx-xxxx-0897"
     });
 
